@@ -1,0 +1,8 @@
+{
+  "name": "RakitWeb",
+  "description": "Platform pembuatan website profesional dengan fitur drag-and-drop, integrasi pembayaran instan, uji coba gratis 2 hari, analitik real-time, optimasi SEO bawaan, enkripsi end-to-end, dan bantuan pelanggan 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
